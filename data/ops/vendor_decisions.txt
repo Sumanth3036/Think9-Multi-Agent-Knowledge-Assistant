@@ -1,0 +1,27 @@
+THINK9 VENDOR DECISION HISTORY
+
+Document Date: 2026-06-25
+Category: Operations
+
+VENDOR X
+
+Brand A previously evaluated Vendor X for campaign fulfillment.
+
+The vendor was not selected because its delivery estimates did not meet the campaign timeline.
+
+VENDOR Y
+
+Brand B selected Vendor Y for a limited campaign.
+
+The vendor met the required delivery timeline, but the team noted that communication during the campaign could be improved.
+
+FUTURE VENDOR EVALUATIONS
+
+Teams should compare:
+- Cost
+- Delivery timeline
+- Reliability
+- Communication
+- Previous Think9 experience
+
+Previous vendor decisions should be considered before starting a new evaluation.

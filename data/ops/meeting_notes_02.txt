@@ -1,0 +1,19 @@
+THINK9 BRAND OPERATIONS MEETING
+
+Meeting Date: 2026-06-17
+Category: Operations
+
+The team discussed repeated questions from newly assigned brand managers.
+
+Several managers were unable to find previous decisions because information was stored across different documents.
+
+The team proposed creating a centralized decision history.
+
+The decision history should record:
+- The original question
+- The decision
+- The reason for the decision
+- The responsible team
+- The date
+
+The group agreed that future important decisions should be recorded in a common system.

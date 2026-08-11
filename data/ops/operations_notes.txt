@@ -1,0 +1,14 @@
+THINK9 OPERATIONS NOTES
+
+Document Date: 2026-05-30
+Category: Operations
+
+NEW BRAND MANAGER ONBOARDING
+
+New brand managers currently spend significant time asking existing team members about previous decisions.
+
+The operations team recommends creating a searchable knowledge base containing previous campaign decisions, operating procedures, and important meeting outcomes.
+
+The knowledge base should always identify the source and date of information.
+
+If information conflicts between documents, the newest authoritative document should normally be preferred, subject to human review when the issue is significant.
